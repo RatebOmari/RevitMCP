@@ -1,0 +1,22 @@
+{
+  "name": "revit-mcp-bridge",
+  "version": "1.0.0",
+  "description": "Bridge connecting Claude Desktop to Revit MCP server via Named Pipes",
+  "main": "bridge.js",
+  "scripts": {
+    "start": "node bridge.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "revit",
+    "mcp",
+    "claude",
+    "bridge",
+    "named-pipes"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

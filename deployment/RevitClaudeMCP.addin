@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RevitClaudeMCP</Name>
+    <Assembly>C:\Program Files\RevitClaudeMCP\RevitClaudeMCP.dll</Assembly>
+    <FullClassName>RevitClaudeMCP.Application</FullClassName>
+    <ClientId>F3F5F5F5-1234-5678-9ABC-DEF012345678</ClientId>
+    <VendorId>RevitClaudeMCP</VendorId>
+    <VendorDescription>Claude MCP Server for Revit</VendorDescription>
+    <VisibilityMode>NotVisibleInFamily</VisibilityMode>
+  </AddIn>
+</RevitAddIns>
